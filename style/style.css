@@ -1,0 +1,78 @@
+.navbar-header a{
+    font-size: 150%;
+    color: whitesmoke;
+}
+.navbar-header a:hover{
+    background-color: darkorange;
+    color: darkmagenta;
+    font-size: 200%;
+    
+
+}
+ul li a{
+    color: whitesmoke;
+    font-size: 130%;
+}
+nav{
+    background-color: black;
+}
+ul li a:hover{
+    color: darkmagenta;
+    font-size: 160%;
+    background-color: darkorange;
+}
+header{
+    
+    background-image: url('../images/header.jpg');
+    height: 550px;
+    width: 300px;
+    color: white;
+    padding-top: 200px;
+
+}
+header div h1{
+   font-size: 60px;
+}
+header div h4{
+    font-size: 20px;
+ }
+ #posts a{
+     color: darkmagenta;
+ }
+ #posts p{
+    color: black;
+    font-weight: 400;
+}
+#post-header h1{
+    color: darkred;
+    font-weight: bolder;
+    font-size: 400%;
+    
+}
+#posts
+{
+    border-bottom: 2px solid grey;
+}
+#post-title
+{
+    font-size: 400%;
+    border-bottom: 1px solid grey;
+
+}
+#author-date
+{
+    border-bottom: 2px solid grey;
+
+}
+#detail-posts
+{
+    margin-top: 10%;
+}
+#contact
+{
+    margin-top: 10%;
+}
+#aboutme
+{
+    margin-top: 10%;
+}
